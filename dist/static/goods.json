@@ -1,0 +1,121 @@
+[
+  {
+    "shopId": 1,
+    "shopName": "杨师傅串串",
+    "shopAddress": "重庆邮电大学",
+    "shopEvaluate": null,
+    "file": null,
+    "shopUrl": "xxx",
+    "managerTel": null,
+    "managerName": null,
+    "password": null,
+    "menuList": [
+      {
+        "foodId": 1,
+        "foodPrice": 0,
+        "foodDescribe": "月售200份",
+        "foodUrl": null,
+        "file": null,
+        "foodName": "串串豆皮",
+        "foodType": null,
+        "shopId": null
+      },
+      {
+        "foodId": 4,
+        "foodPrice": 0,
+        "foodDescribe": "月售200份",
+        "foodUrl": null,
+        "file": null,
+        "foodName": "香肠",
+        "foodType": null,
+        "shopId": null
+      },
+      {
+        "foodId": 5,
+        "foodPrice": 0,
+        "foodDescribe": "月售300份",
+        "foodUrl": null,
+        "file": null,
+        "foodName": "麻花",
+        "foodType": null,
+        "shopId": null
+      },
+      {
+        "foodId": 8,
+        "foodPrice": 0,
+        "foodDescribe": "月售200份",
+        "foodUrl": null,
+        "file": null,
+        "foodName": "串串豆皮",
+        "foodType": null,
+        "shopId": null
+      }
+    ]
+  },
+  {
+    "shopId": 2,
+    "shopName": "长生饺子馆",
+    "shopAddress": "重庆邮电大学",
+    "shopEvaluate": null,
+    "file": null,
+    "shopUrl": "xxx",
+    "managerTel": null,
+    "managerName": null,
+    "password": null,
+    "menuList": [
+      {
+        "foodId": 2,
+        "foodPrice": 0,
+        "foodDescribe": "月售400份",
+        "foodUrl": null,
+        "file": null,
+        "foodName": "白菜饺子",
+        "foodType": null,
+        "shopId": null
+      },
+      {
+        "foodId": 3,
+        "foodPrice": 0,
+        "foodDescribe": "月售200份",
+        "foodUrl": null,
+        "file": null,
+        "foodName": "香菇饺子",
+        "foodType": null,
+        "shopId": null
+      }
+    ]
+  },
+  {
+    "shopId": 3,
+    "shopName": "天桥面",
+    "shopAddress": "重庆邮电大学",
+    "shopEvaluate": null,
+    "file": null,
+    "shopUrl": "xxx",
+    "managerTel": null,
+    "managerName": null,
+    "password": null,
+    "menuList": [
+      {
+        "foodId": 6,
+        "foodPrice": 0,
+        "foodDescribe": "月售300份",
+        "foodUrl": null,
+        "file": null,
+        "foodName": "芹菜饺子",
+        "foodType": null,
+        "shopId": null
+      },
+      {
+        "foodId": 7,
+        "foodPrice": 0,
+        "foodDescribe": "月售300份",
+        "foodUrl": null,
+        "file": null,
+        "foodName": "韭菜饺子",
+        "foodType": null,
+        "shopId": null
+      }
+    ]
+  }
+]
