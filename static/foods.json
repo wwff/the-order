@@ -1,0 +1,134 @@
+{
+  "套饭": [
+    {"name": "套饭"},
+    {
+      "food": "土豆烧鸡",
+      "price": "￥24",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鱼",
+      "price": "￥27",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鸡",
+      "price": "￥24",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鱼",
+      "price": "￥27",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鸡",
+      "price": "￥24",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鱼",
+      "price": "￥27",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鸡",
+      "price": "￥24",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鱼",
+      "price": "￥27",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鸡",
+      "price": "￥24",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鱼",
+      "price": "￥27",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鸡",
+      "price": "￥24",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鱼",
+      "price": "￥27",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鸡",
+      "price": "￥24",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "土豆烧鱼",
+      "price": "￥27",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    }
+  ],
+  "小吃":[
+    {"name": "小吃"},
+    {
+      "food": "冰淇淋",
+      "price": "￥12",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "南瓜饼",
+      "price": "￥16",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    }
+  ],
+  "面食":[
+    {"name": "面食"},
+    {
+      "food": "小面",
+      "price": "￥12",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "杂酱面",
+      "price": "￥16",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    }
+  ],
+  "饮料":[
+    {"name": "饮料"},
+    {
+      "food": "可乐",
+      "price": "￥12",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    },
+    {
+      "food": "雪碧",
+      "price": "￥16",
+      "foodDescribe": "月销售3份|好评率100%",
+      "image": "/static/pizza.jpg"
+    }
+  ]
+}

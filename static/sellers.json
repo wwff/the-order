@@ -1,0 +1,20 @@
+[
+  {
+    "imgsrc" : "/static/pizza.jpg",
+    "title" : "第一家",
+    "describe" : "12",
+    "price" : "￥128"
+  },
+  {
+    "imgsrc" : "/static/pizza.jpg",
+    "title" : "第二家",
+    "describe" : "13",
+    "price" : "￥138"
+  },
+  {
+    "imgsrc" : "/static/pizza.jpg",
+    "title" : "第三家",
+    "describe" : "14",
+    "price" : "￥158"
+  }
+]

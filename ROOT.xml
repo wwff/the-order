@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Context path="/" docBase="/usr/local/tomcat-6.0/webdav" debug="0" privileged="true" reloadable="true"/>
